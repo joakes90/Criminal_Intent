@@ -10,7 +10,7 @@ android {
 
     defaultConfig {
         applicationId "com.joakes.criminalintent"
-        minSdk 23
+        minSdk 24
         targetSdk 31
         versionCode 1
         versionName "1.0"
